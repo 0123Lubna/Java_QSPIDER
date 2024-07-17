@@ -1,0 +1,4 @@
+class Positive{
+	public static void main(String[] args){
+	int a= 9;
+	System.out.println((a>0) ? "a is positive" :"a is not  negative";
